@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hello, I'm Mishfaqur Rahman!"
-excerpt: "Welcome to my academic portfolio"
+title: "Hello there, I'm Alistair!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
